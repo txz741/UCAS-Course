@@ -1,2 +1,10 @@
 # UCAS-Course
-中国科学院大学研一课程教材课件共享项目University of Chinese Academy of Sciences postgraduate one-year course textbook courseware sharing project
+中国科学院大学研一课程教材课件共享项目
+# 内容
+目前临时上传了liuhao和lilujun同学选课的的课本和师兄师姐留传的课件
+# 下载单个文件夹方法
+复制该文件夹的网址，粘贴入DownGit中，选择download即可;
+# 后续计划
+目前是个人选课材料分享，之后希望更多同学分享国科大课程的课本学习材料等，项目还有很需要完善的地方正在改进，欢迎大家一起共享。
+# 免责申明
+本项目只是为方便同学查找可以公开分享课程材料提供方便，严禁商业使用，有任何问题欢迎联系lilujun2019@ia.ac.cn.
